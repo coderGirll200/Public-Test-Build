@@ -11,3 +11,12 @@ git clone https://github.com/Team-Tacobyte/Public-Test-Build.git
 ```
 
 - To run it you can go into the src folder and run the html files
+
+
+### Updating TacoByte PTB
+```
+To update TacoByte(PTB) you must delete the folder and then clone it again 
+```
+```
+git clone https://github.com/Team-Tacobyte/Public-Test-Build.git
+```
