@@ -27,5 +27,14 @@ You can download the stable version
 ```
 [Stable](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/Stable)
 
+### License
+
+- Copyright 2021 TacoByte
+
+[LICENSE File](https://github.com/Team-Tacobyte/Public-Test-Build/blob/main/LICENSE)
+
+### Contributing
+Please read the contributing file [here](https://github.com/Team-Tacobyte/Public-Test-Build/blob/main/Contributing.md)
+
 
 [Discord Server](https://discord.gg/bnfHAe3Na5)
