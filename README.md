@@ -36,5 +36,9 @@ You can download the stable version
 ### Contributing
 Please read the contributing file [here](https://github.com/Team-Tacobyte/Public-Test-Build/blob/main/Contributing.md)
 
+### Others
+
+You can also report bugs [here](https://github.com/Team-Tacobyte/Public-Test-Build/issues/new)
+
 
 [Discord Server](https://discord.gg/bnfHAe3Na5)
