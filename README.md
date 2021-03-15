@@ -24,7 +24,7 @@ git clone https://github.com/Team-Tacobyte/Public-Test-Build.git
 ```
 You can download the stable version 
 ```
-[Stable](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/Stable)
+[Stable](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/v0.2-alpha)
 
 ### License
 
