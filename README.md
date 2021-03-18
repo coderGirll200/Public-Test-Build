@@ -25,7 +25,7 @@ git clone https://github.com/Team-Tacobyte/Public-Test-Build.git
 ```
 You can download the stable version 
 ```
-[Stable](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/v0.2-alpha)
+[Stable](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/0.0.2)
 
 ### License
 
@@ -33,6 +33,7 @@ You can download the stable version
 
 [LICENSE File](https://github.com/Team-Tacobyte/Public-Test-Build/blob/main/LICENSE)
 
+[Base Branch](https://github.com/Team-Tacobyte/Public-Test-Build/tree/master)
 ### Contributing
 Please read the contributing file [here](https://github.com/Team-Tacobyte/Public-Test-Build/blob/main/Contributing.md)
 
@@ -41,3 +42,4 @@ Please read the contributing file [here](https://github.com/Team-Tacobyte/Public
 You can also report bugs [here](https://github.com/Team-Tacobyte/Public-Test-Build/issues/new)
 
 [Discord Server](https://discord.gg/bnfHAe3Na5)
+
