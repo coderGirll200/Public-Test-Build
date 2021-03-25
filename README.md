@@ -8,7 +8,7 @@ Keep in mind if you discover any bugs/problems or have any suggestions. Please r
 You can find other elease's bellow
 | Release | Status | URL |
 | -------- | ------ | ----  
-| Stable.v1 | Outdated | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/Stable) |
+| First Version | Outdated | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/Stable) |
 | Pre-Alpha | Unstable| [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/pre-alpha) |
 | Alpha v0.2 | Stable | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/v0.2-alpha) |
 | Pre-Beta v0.2 | Stable | [here](https://github.com/Team-Tacobyte/Public-Test-Build/releases/tag/0.0.2) |
